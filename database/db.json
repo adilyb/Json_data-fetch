@@ -1,0 +1,61 @@
+{
+    "user" : [
+                {
+                    "id":1,
+                    "name":"George Bluth",
+                    "email":"george.bluth@reqres.in",
+                    "profile":"https://static.vecteezy.com/system/resources/previews/020/765/399/non_2x/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg",
+                    "status":"Active",
+                    "role":"Staff"   
+                },
+                {
+                    "id":2,
+                    "name":"Janet Weaver",
+                    "email":"janet.weaver@reqres.in",
+                    "profile":"https://static.vecteezy.com/system/resources/previews/020/765/399/non_2x/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg",
+                    "status":"Active",
+                    "role":"Staff"   
+                },
+                {
+                    "id":3,
+                    "name":"Emma Wong",
+                    "email":"emma.wong@reqres.in",
+                    "profile":"https://static.vecteezy.com/system/resources/previews/020/765/399/non_2x/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg",
+                    "status":"Active",
+                    "role":"Staff"   
+                },
+                {
+                    "id":4,
+                    "name":"Eva Holt",
+                    "email":"eve.holt@reqres.in",
+                    "profile":"https://static.vecteezy.com/system/resources/previews/020/765/399/non_2x/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg",
+                    "status":"Active",
+                    "role":"Staff"   
+                },
+                {
+                    "id":5,
+                    "name":"Charles Morris",
+                    "email":"charles.morris@reqres.in",
+                    "profile":"https://static.vecteezy.com/system/resources/previews/020/765/399/non_2x/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg",
+                    "status":"Inactive",
+                    "role":"Staff"   
+                },
+                
+                    {
+                        "id": 5,
+                        "name": "Muhammed adil",
+                        "email": "adil.coremicron.org",
+                        "profile" : "https://static.vecteezy.com/system/resources/previews/020/765/399/non_2x/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg",
+                        "status" : "Active",
+                        "role" : "Admin"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Muhammed sinan",
+                        "email": "sinan.coremicron.org",
+                        "profile" : "https://static.vecteezy.com/system/resources/previews/020/765/399/non_2x/default-profile-account-unknown-icon-black-silhouette-free-vector.jpg",
+                        "status" : "Active",
+                        "role" : "Admin"
+                    }
+]
+}
